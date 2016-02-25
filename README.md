@@ -1,4 +1,5 @@
-# Zombie Apocalypse (Breadth Depth Search Simulation)
+# Zombie Apocalypse
+##Breadth Depth Search Simulation
 
 This was my Zombie Apocalypse submission for Coursera's Principles of Computing course. Currently, this code is intended for use with their [Codeskulptor](http://www.codeskulptor.org/) Python interpreter, and you can tinker with my version [here](http://www.codeskulptor.org/#user41_bR8hsxFWu0_14.py). I may try to convert this project to work with tkinter or JavaScript if I find the time.
 
